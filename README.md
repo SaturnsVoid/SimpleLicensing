@@ -34,19 +34,7 @@ Licensing.CheckLicense("{LICESNESSERVER}", {USESSL}, {SILENT})
 
 # Config.toml Format
 
-`
-[server]
-port = "{PORT}"
-ssl = {SSL}
-key = "{KEY}"
-
-[database]
-host = "{HOST}"
-db = "{DB}"
-username = "{USERNAME}"
-password = "{PASSWORD}"
-
-`
+* https://pastebin.com/7wBaXcu1
 
 # Packages Used
 * github.com/gorilla/mux
