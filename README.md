@@ -1,5 +1,5 @@
 # SimpleLicensing
-A VARY BASIC Go Based Licensing System for Digital Rights Management
+A VERY BASIC Go Based Licensing System for Digital Rights Management
 
 Included is a simple Server i built to handle the backend things, a database.sql file (you need to import into MySQL), the main package (License.go), and a example client show you how it could be used.
 
